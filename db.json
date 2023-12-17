@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "gift",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1661972054-P119_LOL_preset_ftd-mx-hero-lv-new.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+      "price": "22.88",
+      "id": 8
     }
   ]
 }
